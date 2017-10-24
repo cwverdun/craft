@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/go-gl/gl/v4.5-core/gl"
-	"github.com/microo8/meh/opengl/craft/glw"
-	"github.com/microo8/meh/opengl/craft/noise"
+	"github.com/microo8/craft/glw"
+	"github.com/microo8/craft/noise"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-gl/gl/v4.5-core/gl"
 	"github.com/go-gl/mathgl/mgl32"
-	"github.com/microo8/meh/opengl/craft/glw"
+	"github.com/microo8/craft/glw"
 )
 
 func init() {
